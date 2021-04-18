@@ -1,0 +1,1 @@
+{"name": "Aldo", "age": 20, "study": true, "sex": "M"}
