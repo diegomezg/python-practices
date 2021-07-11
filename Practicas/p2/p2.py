@@ -46,8 +46,8 @@ while loop == True:
         initial = int(input('Seleccione primer elemento a enlistar:\n'))
         final = int(input('Seleccione ultimo elemento a enlistar:\n'))
 
-        for i in range(initial-1,final):
+        for i in range(initial-1, final):
             print(lista_personas[i])
 
     if option == 3:
-        loop=False
+        loop = False

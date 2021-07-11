@@ -1,0 +1,1 @@
+{"name": "ASD", "age": 12, "study": true, "sex": "M"}
